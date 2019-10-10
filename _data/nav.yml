@@ -1,0 +1,15 @@
+- title: "Home"
+  href: "/"
+
+- title: "Episodes"
+  href: "/episodes/"
+
+- title: "Hosts"
+  href: "/hosts/"
+
+- title: "About Us"
+  href: "/about-us/"
+
+- title: "Contact"
+  href: "/contact/"
+
